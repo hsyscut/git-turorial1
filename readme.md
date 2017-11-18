@@ -5,9 +5,10 @@
 
 
 - feature-A
-- feature--c
-=======
 
+=======
+#git教程
 
 -fix-b-
 >>>>>>> fix-B
+feature-D
